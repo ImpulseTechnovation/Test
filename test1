@@ -3,6 +3,7 @@
 <body>
 
 <h2>Convert a JavaScript object into a JSON string, and send it to the server.</h2>
+<!-- this is a comment -->
 
 <script>
 var myObj = { name: "John", age: 31, city: "New York" };
